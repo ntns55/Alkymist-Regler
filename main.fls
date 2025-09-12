@@ -553,12 +553,15 @@ INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr
 INPUT .\mainstuff\Påfør gift.tex
 INPUT .\mainstuff\Påfør gift.tex
 INPUT mainstuff\Påfør gift.tex
-INPUT .\setup\Alfabeter\Elvisk alfabet.pdf
-INPUT .\setup\Alfabeter\Elvisk alfabet.pdf
-INPUT .\setup\Alfabeter\Elvisk alfabet.pdf
-INPUT .\setup\Alfabeter\Elvisk alfabet.pdf
-INPUT .\setup\Alfabeter\Elvisk alfabet.pdf
-INPUT .\setup\Alfabeter\Elvisk alfabet.pdf
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Elvisk.tex
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Elvisk.tex
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Elvisk.tex
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Elvisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Elvisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Elvisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Elvisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Elvisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Elvisk alfabet.pdf
 INPUT .\mainstuff\Niv2.tex
 INPUT .\mainstuff\Niv2.tex
 INPUT .\mainstuff\Niv2.tex
@@ -575,12 +578,15 @@ INPUT .\mainstuff\AlkymiNiv2.tex
 INPUT .\mainstuff\AlkymiNiv2.tex
 INPUT .\mainstuff\AlkymiNiv2.tex
 INPUT mainstuff\AlkymiNiv2.tex
-INPUT .\setup\Alfabeter\Magisk alfabet.pdf
-INPUT .\setup\Alfabeter\Magisk alfabet.pdf
-INPUT .\setup\Alfabeter\Magisk alfabet.pdf
-INPUT .\setup\Alfabeter\Magisk alfabet.pdf
-INPUT .\setup\Alfabeter\Magisk alfabet.pdf
-INPUT .\setup\Alfabeter\Magisk alfabet.pdf
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Magisk.tex
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Magisk.tex
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Magisk.tex
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Magisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Magisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Magisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Magisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Magisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Magisk alfabet.pdf
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri9e.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbi9e.tfm
 INPUT .\mainstuff\Niv3.tex
@@ -620,86 +626,84 @@ INPUT mainstuff\AlkymiNiv4.tex
 INPUT .\mainstuff\Ekstra NK Niv. 1.tex
 INPUT .\mainstuff\Ekstra NK Niv. 1.tex
 INPUT mainstuff\Ekstra NK Niv. 1.tex
-INPUT .\setup\GenerelleEvner.tex
-INPUT .\setup\GenerelleEvner.tex
-INPUT .\setup\GenerelleEvner.tex
-INPUT .\setup\GenerelleEvner.tex
-INPUT setup\GenerelleEvner.tex
-INPUT .\setup\Evner\6SansNiv1.tex
-INPUT .\setup\Evner\6SansNiv1.tex
-INPUT .\setup\Evner\6SansNiv1.tex
-INPUT .\setup\Evner\6SansNiv1.tex
-INPUT setup\Evner\6SansNiv1.tex
-INPUT .\setup\Evner\6SansNiv2.tex
-INPUT .\setup\Evner\6SansNiv2.tex
-INPUT .\setup\Evner\6SansNiv2.tex
-INPUT .\setup\Evner\6SansNiv2.tex
-INPUT setup\Evner\6SansNiv2.tex
-INPUT .\setup\Evner\Bonk.tex
-INPUT .\setup\Evner\Bonk.tex
-INPUT .\setup\Evner\Bonk.tex
-INPUT .\setup\Evner\Bonk.tex
-INPUT setup\Evner\Bonk.tex
-INPUT .\setup\Evner\Brug af pistol.tex
-INPUT .\setup\Evner\Brug af pistol.tex
-INPUT .\setup\Evner\Brug af pistol.tex
-INPUT .\setup\Evner\Brug af pistol.tex
-INPUT setup\Evner\Brug af pistol.tex
-INPUT .\setup\Evner\Bære Person.tex
-INPUT .\setup\Evner\Bære Person.tex
-INPUT .\setup\Evner\Bære Person.tex
-INPUT .\setup\Evner\Bære Person.tex
-INPUT setup\Evner\Bære Person.tex
-INPUT .\setup\Evner\Kamp Med Tohåndsvåben.tex
-INPUT .\setup\Evner\Kamp Med Tohåndsvåben.tex
-INPUT .\setup\Evner\Kamp Med Tohåndsvåben.tex
-INPUT .\setup\Evner\Kamp Med Tohåndsvåben.tex
-INPUT setup\Evner\Kamp Med Tohåndsvåben.tex
-INPUT .\setup\Evner\Førstehjælp.tex
-INPUT .\setup\Evner\Førstehjælp.tex
-INPUT .\setup\Evner\Førstehjælp.tex
-INPUT .\setup\Evner\Førstehjælp.tex
-INPUT setup\Evner\Førstehjælp.tex
-INPUT .\setup\Evner\Læse og skrive.tex
-INPUT .\setup\Evner\Læse og skrive.tex
-INPUT .\setup\Evner\Læse og skrive.tex
-INPUT .\setup\Evner\Læse og skrive.tex
-INPUT setup\Evner\Læse og skrive.tex
-INPUT .\setup\Evner\Minearbejder.tex
-INPUT .\setup\Evner\Minearbejder.tex
-INPUT .\setup\Evner\Minearbejder.tex
-INPUT .\setup\Evner\Minearbejder.tex
-INPUT setup\Evner\Minearbejder.tex
-INPUT .\setup\Evner\Påfør Gift.tex
-INPUT .\setup\Evner\Påfør Gift.tex
-INPUT .\setup\Evner\Påfør Gift.tex
-INPUT .\setup\Evner\Påfør Gift.tex
-INPUT setup\Evner\Påfør Gift.tex
-INPUT .\setup\Evner\Slagsbror Niv 1.tex
-INPUT .\setup\Evner\Slagsbror Niv 1.tex
-INPUT .\setup\Evner\Slagsbror Niv 1.tex
-INPUT .\setup\Evner\Slagsbror Niv 1.tex
-INPUT setup\Evner\Slagsbror Niv 1.tex
-INPUT .\setup\Evner\Slagsbror Niv 2.tex
-INPUT .\setup\Evner\Slagsbror Niv 2.tex
-INPUT .\setup\Evner\Slagsbror Niv 2.tex
-INPUT .\setup\Evner\Slagsbror Niv 2.tex
-INPUT setup\Evner\Slagsbror Niv 2.tex
-INPUT .\setup\Evner\Slagsbror Niv 3.tex
-INPUT .\setup\Evner\Slagsbror Niv 3.tex
-INPUT .\setup\Evner\Slagsbror Niv 3.tex
-INPUT .\setup\Evner\Slagsbror Niv 3.tex
-INPUT setup\Evner\Slagsbror Niv 3.tex
-INPUT .\setup\Evner\Speciale.tex
-INPUT .\setup\Evner\Speciale.tex
-INPUT .\setup\Evner\Speciale.tex
-INPUT .\setup\Evner\Speciale.tex
-INPUT setup\Evner\Speciale.tex
-INPUT .\setup\Evner\Urtesamler.tex
-INPUT .\setup\Evner\Urtesamler.tex
-INPUT .\setup\Evner\Urtesamler.tex
-INPUT .\setup\Evner\Urtesamler.tex
-INPUT setup\Evner\Urtesamler.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiKampMedTohånds.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiKampMedTohånds.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiKampMedTohånds.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\\6SansNiv1.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\\6SansNiv1.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\\6SansNiv1.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\\6SansNiv1.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\\6SansNiv1.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Brug af pistol.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Brug af pistol.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Brug af pistol.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Brug af pistol.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Brug af pistol.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære Person.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære Person.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære Person.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære Person.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære Person.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Kamp Med Tohåndsvåben.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Kamp Med Tohåndsvåben.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Kamp Med Tohåndsvåben.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Kamp Med Tohåndsvåben.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Kamp Med Tohåndsvåben.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Minearbejder.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Minearbejder.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Minearbejder.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Minearbejder.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Minearbejder.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 1.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
 OUTPUT main.thm
 INPUT main.aux
 INPUT .\main.out

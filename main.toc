@@ -9,11 +9,11 @@
 \contentsline {subsection}{Alkymi Niv. 1}{10}{section*.10}%
 \contentsline {subsection}{Indkomst}{12}{table.caption.11}%
 \contentsline {subsection}{Kemisk våben}{12}{table.caption.11}%
-\contentsline {subsection}{Læse/Skrive Elvisk}{12}{table.caption.11}%
+\contentsline {subsection}{Læse og skrive Elvisk}{12}{table.caption.11}%
 \contentsline {chapter}{Niveau 2}{13}{chapter*.13}%
 \contentsline {section}{Evne beskrivelse}{13}{table.caption.14}%
 \contentsline {subsection}{Alkymi Niv. 2}{13}{section*.15}%
-\contentsline {subsection}{Læse/Skrive Magi}{16}{table.caption.16}%
+\contentsline {subsection}{Læse og skrive Magisk}{16}{table.caption.16}%
 \contentsline {subsection}{Personlig Have Niv. 1}{17}{figure.caption.17}%
 \contentsline {chapter}{Niveau 3}{18}{chapter*.18}%
 \contentsline {section}{Evne beskrivelse}{18}{table.caption.19}%
