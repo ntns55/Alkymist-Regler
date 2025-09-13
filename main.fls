@@ -512,18 +512,16 @@ INPUT .\mainstuff\Niv1.tex
 INPUT .\mainstuff\Niv1.tex
 INPUT .\mainstuff\Niv1.tex
 INPUT mainstuff\Niv1.tex
-INPUT .\mainstuff\AlkymiNiv1.tex
-INPUT .\mainstuff\AlkymiNiv1.tex
-INPUT .\mainstuff\AlkymiNiv1.tex
-INPUT .\mainstuff\AlkymiNiv1.tex
-INPUT mainstuff\AlkymiNiv1.tex
+INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv1.tex
+INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv1.tex
+INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv1.tex
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT .\mainstuff\Indkomst.tex
-INPUT .\mainstuff\Indkomst.tex
-INPUT mainstuff\Indkomst.tex
+INPUT ..\Evne-Ordbog\Indkomst.tex
+INPUT ..\Evne-Ordbog\Indkomst.tex
+INPUT ..\Evne-Ordbog\Indkomst.tex
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9t.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9t.tfm
@@ -550,9 +548,9 @@ INPUT C:\Users\niels\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary9.tfm
 INPUT C:\Users\niels\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary7.tfm
 INPUT C:\Users\niels\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary5.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
-INPUT .\mainstuff\Påfør gift.tex
-INPUT .\mainstuff\Påfør gift.tex
-INPUT mainstuff\Påfør gift.tex
+INPUT ..\Evne-Ordbog\Påfør gift.tex
+INPUT ..\Evne-Ordbog\Påfør gift.tex
+INPUT ..\Evne-Ordbog\Påfør gift.tex
 INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Elvisk.tex
 INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Elvisk.tex
 INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Elvisk.tex
@@ -573,11 +571,9 @@ INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fpl
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
-INPUT .\mainstuff\AlkymiNiv2.tex
-INPUT .\mainstuff\AlkymiNiv2.tex
-INPUT .\mainstuff\AlkymiNiv2.tex
-INPUT .\mainstuff\AlkymiNiv2.tex
-INPUT mainstuff\AlkymiNiv2.tex
+INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv2.tex
+INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv2.tex
+INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv2.tex
 INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Magisk.tex
 INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Magisk.tex
 INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Magisk.tex
@@ -600,32 +596,26 @@ INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fpl
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplri9e.vf
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
-INPUT .\mainstuff\AlkymiNiv3.tex
-INPUT .\mainstuff\AlkymiNiv3.tex
-INPUT .\mainstuff\AlkymiNiv3.tex
-INPUT .\mainstuff\AlkymiNiv3.tex
-INPUT mainstuff\AlkymiNiv3.tex
+INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv3.tex
+INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv3.tex
+INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv3.tex
 INPUT .\mainstuff\Urtekundskab.tex
 INPUT .\mainstuff\Urtekundskab.tex
 INPUT mainstuff\Urtekundskab.tex
-INPUT .\mainstuff\Urteudvalg.tex
-INPUT .\mainstuff\Urteudvalg.tex
-INPUT .\mainstuff\Urteudvalg.tex
-INPUT .\mainstuff\Urteudvalg.tex
-INPUT mainstuff\Urteudvalg.tex
+INPUT ..\Evne-Ordbog\Vareudvalg\Urteudvalg.tex
+INPUT ..\Evne-Ordbog\Vareudvalg\Urteudvalg.tex
+INPUT ..\Evne-Ordbog\Vareudvalg\Urteudvalg.tex
 INPUT .\mainstuff\Niv4.tex
 INPUT .\mainstuff\Niv4.tex
 INPUT .\mainstuff\Niv4.tex
 INPUT .\mainstuff\Niv4.tex
 INPUT mainstuff\Niv4.tex
-INPUT .\mainstuff\AlkymiNiv4.tex
-INPUT .\mainstuff\AlkymiNiv4.tex
-INPUT .\mainstuff\AlkymiNiv4.tex
-INPUT .\mainstuff\AlkymiNiv4.tex
-INPUT mainstuff\AlkymiNiv4.tex
-INPUT .\mainstuff\Ekstra NK Niv. 1.tex
-INPUT .\mainstuff\Ekstra NK Niv. 1.tex
-INPUT mainstuff\Ekstra NK Niv. 1.tex
+INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv4.tex
+INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv4.tex
+INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv4.tex
+INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 1.tex
+INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 1.tex
+INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 1.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiKampMedTohånds.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiKampMedTohånds.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiKampMedTohånds.tex
