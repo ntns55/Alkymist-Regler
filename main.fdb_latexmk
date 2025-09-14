@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1757853695.89757 "c:/Users/Administrator/Documents/GitHub/Alkymist-Regler/main.tex" "main.pdf" "main" 1757853701.60567 2
+["pdflatex"] 1757854924.63538 "c:/Users/Administrator/Documents/GitHub/Alkymist-Regler/main.tex" "main.pdf" "main" 1757854929.92846 2
   "../Evne-Ordbog/Alfabeter/Elvisk alfabet.pdf" 0 -1 0 ""
   "../Evne-Ordbog/Alkymi/AlkymiNiv1.tex" 1754491980 2271 46e75d1a8449628cc34eb00efb3f47d5 ""
   "../Evne-Ordbog/Alkymi/AlkymiNiv2.tex" 1754491980 4506 ac3b425279568dd31701571c99f4ed67 ""
@@ -23,7 +23,7 @@
   "../Evne-Ordbog/GenerelleEvner/Evner/Urtesamler.tex" 1754491980 190 18e8e3042c306275596a9a9dd1951dc2 ""
   "../Evne-Ordbog/GenerelleEvner/GenerelleEvnerIngenMagiKampMedTohånds.tex" 1757853686 2047 b29b9e300d8d8969739bd4d12044bb78 ""
   "../Evne-Ordbog/Indkomst.tex" 1754491980 174 4a7f07d58f448b54092da1237f766702 ""
-  "../Evne-Ordbog/Læse og skrive/Læse og skrive Elvisk.tex" 1757852833 323 628021e7f448a20c89e1a10c0887a072 ""
+  "../Evne-Ordbog/Læse og skrive/Læse og skrive Elvisk.tex" 1757854921 323 628021e7f448a20c89e1a10c0887a072 ""
   "../Evne-Ordbog/Læse og skrive/Læse og skrive Magisk.tex" 1757853414 327 491c7a6d94dc5e3562c6bd2eba009381 ""
   "../Evne-Ordbog/Påfør gift.tex" 1754491980 547 743abb6077f3ea57b531742cd04ac59f ""
   "../Evne-Ordbog/Vareudvalg/Urteudvalg.tex" 1757853414 2239 a1f64433a189ccceea951e616c9073b8 ""
@@ -273,15 +273,15 @@
   "C:/Users/Administrator/AppData/Roaming/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/Administrator/AppData/Roaming/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/Administrator/Documents/GitHub/Alkymist-Regler/main.tex" 1757848319 1827 b5c30e3d7cb9a0a0e3c31f1903df902d ""
-  "main.aux" 1757853700 6944 a158d37aed4257898610ce72a07a82cc "pdflatex"
-  "main.out" 1757853700 6760 f40e3b9f2c8b080a59f0898b255b1699 "pdflatex"
+  "main.aux" 1757854929 7046 a10aa6d3b94115c94d720fb6eae37eee "pdflatex"
+  "main.out" 1757854929 6871 8609f4c64edf176634cea935dbb2b7d9 "pdflatex"
   "main.tex" 1757848319 1827 b5c30e3d7cb9a0a0e3c31f1903df902d ""
-  "main.toc" 1757853700 3166 6036469bc4bff1f808bd5d6c1df90b5e "pdflatex"
+  "main.toc" 1757854929 3227 09df8767b40edeef0fafabfa4c6fbf78 "pdflatex"
   "mainstuff/Drikke.tex" 1754491741 6664 7049a1288ae61d08413789053b07ed87 ""
   "mainstuff/Indledning.tex" 1754491741 1395 ecc35cde089960c70a2a4eb859c2a838 ""
   "mainstuff/Niv1.tex" 1757848319 823 559dae35ff2e5ab3cd3aa0ca6ea5a838 ""
   "mainstuff/Niv2.tex" 1757848319 1793 44b862b9220b893cc452431bd384e242 ""
-  "mainstuff/Niv3.tex" 1757852737 1157 5d1492385546931efdd8e7a0c199b455 ""
+  "mainstuff/Niv3.tex" 1757854869 1494 d06a0fef6a07f90a97a1c39d755b1c3c ""
   "mainstuff/Niv4.tex" 1757848319 5284 3f83d3361a95cb236daabc5076366090 ""
   "setup/Pictures/A01.C01.01_Front_Billede.png" 1754491741 6403955 f084c9143d1fcc3045f3c66faf856f1d ""
   (generated)

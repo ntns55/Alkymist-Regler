@@ -18,9 +18,10 @@
 \contentsline {chapter}{Niveau 3}{17}{chapter*.18}%
 \contentsline {section}{Evne beskrivelse}{17}{table.caption.19}%
 \contentsline {subsection}{Alkymi Niv. 3}{17}{section*.20}%
+\contentsline {subsection}{Feltleder}{20}{table.caption.21}%
 \contentsline {subsection}{Bryggerens Hemmelighed}{20}{table.caption.21}%
 \contentsline {subsection}{Urtesamler}{20}{table.caption.21}%
-\contentsline {subsection}{Urteudvalg}{20}{table.caption.21}%
+\contentsline {subsection}{Urteudvalg}{21}{table.caption.21}%
 \contentsline {chapter}{Niveau 4}{22}{chapter*.26}%
 \contentsline {section}{Evne beskrivelse for Forsker}{22}{section*.27}%
 \contentsline {subsection}{Alkymi Niv. 4}{22}{section*.27}%
