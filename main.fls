@@ -393,8 +393,14 @@ INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\caption\ltcaption.sty
 INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\caption\ltcaption.sty
-OUTPUT main.out
+INPUT .\main.out
+INPUT .\main.out
+INPUT main.out
+INPUT main.out
 OUTPUT main.pdf
+INPUT .\main.out
+INPUT .\main.out
+OUTPUT main.out
 INPUT .\setup\Pictures\A01.C01.01_Front_Billede.png
 INPUT .\setup\Pictures\A01.C01.01_Front_Billede.png
 INPUT .\setup\Pictures\A01.C01.01_Front_Billede.png
@@ -421,26 +427,10 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
 INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
-OUTPUT main.toc
-INPUT .\mainstuff\Indledning.tex
-INPUT .\mainstuff\Indledning.tex
-INPUT mainstuff\Indledning.tex
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
+INPUT .\main.toc
+INPUT .\main.toc
+INPUT main.toc
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
-INPUT .\mainstuff\Drikke.tex
-INPUT .\mainstuff\Drikke.tex
-INPUT .\mainstuff\Drikke.tex
-INPUT .\mainstuff\Drikke.tex
-INPUT mainstuff\Drikke.tex
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\psnfss\ts1pplx.fd
-INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\psnfss\ts1pplx.fd
-INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\psnfss\ts1pplx.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9c.tfm
 INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1pplx.fd
 INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1pplx.fd
 INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1pplx.fd
@@ -483,6 +473,25 @@ INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\stmaryrd\ustmry.fd
 INPUT C:\Users\Administrator\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary10.tfm
 INPUT C:\Users\Administrator\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary8.tfm
 INPUT C:\Users\Administrator\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
+OUTPUT main.toc
+INPUT .\mainstuff\Indledning.tex
+INPUT .\mainstuff\Indledning.tex
+INPUT mainstuff\Indledning.tex
+INPUT .\mainstuff\Drikke.tex
+INPUT .\mainstuff\Drikke.tex
+INPUT .\mainstuff\Drikke.tex
+INPUT .\mainstuff\Drikke.tex
+INPUT mainstuff\Drikke.tex
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\psnfss\ts1pplx.fd
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\psnfss\ts1pplx.fd
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\psnfss\ts1pplx.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9c.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr9c.vf
@@ -545,7 +554,12 @@ INPUT ..\Evne-Ordbog\Påfør gift.tex
 INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Elvisk.tex
 INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Elvisk.tex
 INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Elvisk.tex
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ectt1095.tfm
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Elvisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Elvisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Elvisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Elvisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Elvisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Elvisk alfabet.pdf
 INPUT .\mainstuff\Niv2.tex
 INPUT .\mainstuff\Niv2.tex
 INPUT .\mainstuff\Niv2.tex
@@ -682,8 +696,6 @@ OUTPUT main.thm
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
-INPUT C:\Users\Administrator\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk
-INPUT C:\Users\Administrator\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplb8a.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplb8a.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplbi8a.pfb
