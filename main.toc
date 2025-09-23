@@ -40,13 +40,12 @@
 \contentsline {subsection}{Bonk}{30}{subsection*.48}%
 \contentsline {subsection}{Brug af pistol}{30}{subsection*.49}%
 \contentsline {subsection}{Bære person}{30}{subsection*.50}%
-\contentsline {subsection}{Kamp med tohåndsvåben}{31}{subsection*.51}%
-\contentsline {subsection}{Førstehjælp}{31}{subsection*.52}%
-\contentsline {subsection}{Læse og skrive}{31}{subsection*.53}%
-\contentsline {subsection}{Minearbejder}{31}{subsection*.54}%
-\contentsline {subsection}{Påfør gift}{31}{subsection*.55}%
-\contentsline {subsection}{Slagsbror Niv. 1}{32}{subsection*.56}%
+\contentsline {subsection}{Førstehjælp}{31}{subsection*.51}%
+\contentsline {subsection}{Læse og skrive}{31}{subsection*.52}%
+\contentsline {subsection}{Minearbejder}{31}{subsection*.53}%
+\contentsline {subsection}{Påfør gift}{31}{subsection*.54}%
+\contentsline {subsection}{Slagsbror Niv. 1}{31}{subsection*.55}%
+\contentsline {subsection}{Slagsbror Niv. 2}{32}{subsection*.56}%
 \contentsline {subsection}{Slagsbror Niv. 2}{32}{subsection*.57}%
-\contentsline {subsection}{Slagsbror Niv. 2}{32}{subsection*.58}%
-\contentsline {subsection}{Speciale}{32}{subsection*.59}%
-\contentsline {subsection}{Urtesamler}{33}{subsection*.60}%
+\contentsline {subsection}{Speciale}{32}{subsection*.58}%
+\contentsline {subsection}{Urtesamler}{32}{subsection*.59}%
