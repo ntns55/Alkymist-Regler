@@ -16,36 +16,31 @@
 \contentsline {subsection}{Læse og skrive Magisk}{16}{subsection*.19}%
 \contentsline {subsection}{Personlig Have Niv. 1}{17}{subsection*.21}%
 \contentsline {chapter}{\numberline {4}Niveau 3}{18}{chapter.4}%
-\contentsline {section}{Evne beskrivelse}{18}{table.caption.22}%
-\contentsline {subsection}{Alkymi Niv. 3}{18}{subsection*.23}%
-\contentsline {subsection}{Feltleder}{21}{subsection*.25}%
-\contentsline {subsection}{Bryggerens Hemmelighed}{21}{subsection*.26}%
-\contentsline {subsection}{Urtesamler}{21}{subsection*.27}%
-\contentsline {subsection}{Urteudvalg}{22}{subsection*.28}%
+\contentsline {section}{Evne beskrivelse}{18}{section*.23}%
+\contentsline {subsection}{Alkymi Niv. 3}{18}{subsection*.24}%
+\contentsline {subsection}{Bryggerens Hemmelighed}{21}{subsection*.27}%
+\contentsline {subsection}{Urteudvalg}{21}{subsection*.30}%
+\contentsline {subsection}{Personlig Have Niv. 2}{22}{subsection*.35}%
 \contentsline {chapter}{\numberline {5}Niveau 4}{23}{chapter.5}%
-\contentsline {section}{Evne beskrivelse for Forsker}{24}{section*.33}%
-\contentsline {subsection}{Alkymi Niv. 4}{24}{subsection*.34}%
-\contentsline {subsection}{DNA-Mutation}{26}{subsection*.36}%
-\contentsline {subsection}{Ekstra NK Niv. 1}{26}{subsection*.37}%
-\contentsline {section}{Evne beskrivelse for Mystiker}{27}{section*.38}%
-\contentsline {subsection}{Blandings Batteri}{27}{subsection*.39}%
-\contentsline {subsection}{Giftens Vanvid}{27}{subsection*.40}%
-\contentsline {subsection}{Magisk alkymist}{27}{subsection*.41}%
-\contentsline {subsection}{Mana Mikstur}{28}{subsection*.42}%
-\contentsline {subsection}{Personlig Have Niv. 2}{28}{subsection*.43}%
-\contentsline {chapter}{Generelle evner}{29}{chapter*.44}%
-\contentsline {section}{Evne beskrivelse}{29}{table.caption.45}%
-\contentsline {subsection}{6. sans Niv. 1}{29}{subsection*.46}%
-\contentsline {subsection}{6. sans Niv. 2}{30}{subsection*.47}%
-\contentsline {subsection}{Bonk}{30}{subsection*.48}%
-\contentsline {subsection}{Brug af pistol}{30}{subsection*.49}%
-\contentsline {subsection}{Bære person}{30}{subsection*.50}%
-\contentsline {subsection}{Førstehjælp}{31}{subsection*.51}%
-\contentsline {subsection}{Læse og skrive}{31}{subsection*.52}%
-\contentsline {subsection}{Minearbejder}{31}{subsection*.53}%
-\contentsline {subsection}{Påfør gift}{31}{subsection*.54}%
-\contentsline {subsection}{Slagsbror Niv. 1}{31}{subsection*.55}%
-\contentsline {subsection}{Slagsbror Niv. 2}{32}{subsection*.56}%
-\contentsline {subsection}{Slagsbror Niv. 2}{32}{subsection*.57}%
-\contentsline {subsection}{Speciale}{32}{subsection*.58}%
-\contentsline {subsection}{Urtesamler}{32}{subsection*.59}%
+\contentsline {section}{Evne beskrivelse}{23}{section*.39}%
+\contentsline {subsection}{Alkymi Niv. 4}{23}{subsection*.40}%
+\contentsline {subsection}{Blandings Batteri}{26}{subsection*.42}%
+\contentsline {subsection}{DNA-Mutation}{26}{subsection*.43}%
+\contentsline {subsection}{Giftens Vanvid}{26}{subsection*.44}%
+\contentsline {subsection}{Magisk alkymist}{27}{subsection*.46}%
+\contentsline {chapter}{Generelle evner}{28}{chapter*.49}%
+\contentsline {section}{Evne beskrivelse}{28}{table.caption.50}%
+\contentsline {subsection}{6. sans Niv. 1}{28}{subsection*.51}%
+\contentsline {subsection}{6. sans Niv. 2}{29}{subsection*.52}%
+\contentsline {subsection}{Bonk}{29}{subsection*.53}%
+\contentsline {subsection}{Brug af pistol}{29}{subsection*.54}%
+\contentsline {subsection}{Bære person}{29}{subsection*.55}%
+\contentsline {subsection}{Førstehjælp}{30}{subsection*.56}%
+\contentsline {subsection}{Læse og skrive}{30}{subsection*.57}%
+\contentsline {subsection}{Minearbejder}{30}{subsection*.58}%
+\contentsline {subsection}{Påfør gift}{30}{subsection*.59}%
+\contentsline {subsection}{Slagsbror Niv. 1}{31}{subsection*.60}%
+\contentsline {subsection}{Slagsbror Niv. 2}{31}{subsection*.61}%
+\contentsline {subsection}{Slagsbror Niv. 2}{31}{subsection*.62}%
+\contentsline {subsection}{Speciale}{31}{subsection*.63}%
+\contentsline {subsection}{Urtesamler}{32}{subsection*.64}%

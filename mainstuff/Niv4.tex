@@ -1,57 +1,39 @@
-\chapter{Niveau 4}
+\chapter{Niveau 4}\todo{Fjernet Professions Splitning}
 Du har valgt din sti, du har valgt din skæbne. Du har opnået det sidste trin i alkymistens færd. Du kan nu hvad få drømmer om, og de som står i vejen for dig, vil skulle tjekke deres drikkevarer. Dine venner vil aldrig kende frygt, for de vil have din hjælp selv fra den anden side af dødens dør.\\
-Som \textbf{Forsker} har du specialiseret dig i det ypperste af alkymien. Du kan formler som normalt ville være glemt til tiden, og forstår at alkymi er en delikat ligning som skal gå op.\\
-\textbf{Mystikeren} har indset af mana og alkymi er en utrolig kombination. Deres evner til at opnå et højere niveau og manipulere alkymi med magi leder mange til at opsøge dem.\\
 
-\textbf{Du skal vælge din sti med omhug, da dette ikke kan ændres efter dette er valgt.}\\
 
-\begin{tabular}{|p{0.3525\textwidth}|p{0.1175\textwidth}|p{0.3525\textwidth}|p{0.1175\textwidth}|}
-\hline
-\rowcolor{cerulean!80}
- \multicolumn{2}{|c|}{  Forsker } & \multicolumn{2}{|c|}{ Mystiker }\\
-\hline
-\rowcolor{cerulean!40}
-    Evne navn & Pris i XP & Evne navn & Pris i XP\\ \hline
-    Alkymi Niv. 4 & 2 & Blandings Batteri & 2 \\ \hline
-    DNA-Mutation & 3 & Giftens Vanvid & 2\\\hline
-    Ekstra NK Niv. 1 & 2 & Magisk Alkymist  & 5\\\hline
-    Mirakel Mix & 3 & Mana Mikstur & 3\\\hline
-     &  & Personlig Have Niv. 2 & 2\\
-\hline
-\end{tabular}
-
-\section{Evne beskrivelse for Forsker}
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|p{0.50\textwidth}|p{0.25\textwidth}|}
+    \rowcolor{cerulean!80}\hline
+    Evne navn & Pris i XP\\\hline
+    Alkymi Niv. 4 & 2 \\\hline
+    Blandings Batteri & 2 \\ \hline
+    DNA-Mutation & 3 \\\hline
+    Giftens Vanvid & 2\\\hline
+    Magisk Alkymist  & 5\\\hline
+    \end{tabular}
+\end{table}
+\section{Evne beskrivelse}
 
 \input{../Evne-Ordbog/Alkymi/AlkymiNiv4.tex}
+
+\subsection{Blandings Batteri}
+Du kan blande to drikke eller to gifte til én drik eller gift. Effekten af den nye drik eller gift vil være en kombination af de to ingrediensers effekter. Hvis begge gifte vil give skade vil den nye drik give skade som den højeste af de to værdier. Det samme gælder for ekstra liv og helbredelse. Hvis effekten varer over længere tid, vil den samlede effekt varer som den korteste af de to effekter.\\
+\textit{Eksempel: Vitra vil blande en gift som skal bruges til tortur, men hun er træt af at folk råber så meget. Hun blander derfor de to Negative Gifte, Smertedrik og paralysedrik. De varer begge to i 30 sekunder så den samlede effekt varer i 30 sekunder, hvor offeret vil mærke stor smerte mens de er paralyseret. Hvis Vitra blandede to øjeblikkelige gifte så som Giftdrik og svag giftdrik vil denne skade 3, da dette er hvad Giftdrik skader og denne skader mest af de to.}
 
 \subsection{DNA-Mutation}
 Du er, gennem flere testbryg, lykkedes med at mutere dine urter. Når du bruger urter fra din personlige have, må du ignorere en anden urt i den opskrift du brygger.\\
 
-\input{../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 1.tex}
-
-\subsection*{Mirakel Mix}
-Du har længe forsket i at specificere dine drikke efter dine behov. Du kan nu komme med et forsalg til arrangørene til en drik du gerne vil brygge. Hvis denne godkendes opnår drikken den ønskede effekt. Men dette kræver længere tid end ved normal fremstillelse af brygge og kræver særlige sammensætninger af urter der opstilles af arrangørene.\\
-
-
-\section{Evne beskrivelse for Mystiker}
-
-\subsection{Blandings Batteri}
-Du kan blande to drikke med \emph{samme type} til én drik. Effekten af den nye drik vil være en kombination af de to drikkes effekter. Hvis begge drikke vil give skade vil den nye drik give skade som den højeste af de to værdier. Det samme gælder for ekstra liv. Hvis effekten varer over længere tid, vil den samlede effekt varer som den korteste af de to effekter.\\
-\textit{Eksempel: Vitra vil blande en gift som skal bruges til tortur, men hun er træt af at folk råber så meget. Hun blander derfor de to Negative Gifte, Smertedrik og paralysedrik. De varer begge to i 30 sekunder så den samlede effekt varer i 30 sekunder, hvor offeret vil mærke stor smerte mens de er paralyseret. Hvis Vitra blandede to øjeblikkelige gifte så som Giftdrik og svag giftdrik vil denne skade 3, da dette er hvad Giftdrik skader og denne skader mest af de to.}
-
 \subsection{Giftens Vanvid}
-Mystikeren kan nu påføre gift på 2 våben. Disse må gerne være kasteknive. Samme regler som Påfør Gift gælder stadig.\\
+Denne evne kræver Kemisk Våben. Alkymisten kan nu påføre gift på 2 våben. Disse må gerne være kasteknive. Samme regler som Påfør Gift gælder stadig.\\
+
+\todo{Fjernet Mirakel Mix}
 
 \subsection{Magisk alkymist}
-Du kan blande magi og alkymi. Ved at bruge 6 manasten kan du lave en drik som har den samme effekt som en niveau 1 magi fra enten: Elementalisten, Mentalisten, Nekromantikeren, Kaosdruide eller Livsdruiden.\\
+Du kan blande magi og alkymi. Ved at bruge 6 manasten kan du lave en drik som har den samme effekt som en niveau 1 magi fra enten: Elementalisten, Mentalisten, Nekromantikeren, Præst eller Druide\todo{Tilføjet Præst}.\\
 Hvis du arbejder sammen med en magikaster eller bruger en skriftrulle kan du lave en drik der har effekt som en magi de har adgang til, der er ikke en begrænsning på hvilket niveau magien må være af. Hvis magien er over niveau 1 koster det dog også 2 Sort Fluesvamp, hvis magien giver skade eller er negativ, eller 2 Cedertræ hvis magien giver liv eller er positiv.\\
 Hvis du bruger en magisk skriftrulle, så vil skriftrullen blive brugt.\\
-Alle drikke fremstillet på denne måde vil kun påvirke den som drikker det, selvom magien normalt ville påvirke flere folk. Ved specielle magier, så som Sjælebånd, kontakt venligst en arrangør først.\\
+Alle drikke fremstillet på denne måde vil kun påvirke den som drikker det, selvom magien normalt ville påvirke flere folk. Ved specielle magier kontakt venligst en arrangør først.\\
 
-\subsection{Mana Mikstur}
-Når du laver en drik der genvinder LP giver den nu ligeledes samme mængde mana tilbage som LP.\\
-
-\subsection{Personlig Have Niv. 2}
-Som en del af din spilgang kan du vælge et område som skal være din have. Vi foreslår at dette område er afmærket så det er tydeligt.\\
-I løbet af en spilgang kan du vælge at plante en urt i din have. Dette betyder at du mister en urt, men ved starten af næste spilgang vil du få 5 af denne urt tilbage.\\
-Vi vil meget gerne opfordre spillere til at søge hjælp fra andre til at 'velsigne', 'luge' eller 'gøde' deres have så dette kan give godt spil.\\
+\todo{Fjernet Mana Mikstur}

@@ -634,9 +634,6 @@ INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplm
 INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv3.tex
 INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv3.tex
 INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv3.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
 INPUT ..\Evne-Ordbog\Vareudvalg\Urteudvalg.tex
 INPUT ..\Evne-Ordbog\Vareudvalg\Urteudvalg.tex
 INPUT ..\Evne-Ordbog\Vareudvalg\Urteudvalg.tex
@@ -648,9 +645,6 @@ INPUT mainstuff\Niv4.tex
 INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv4.tex
 INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv4.tex
 INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv4.tex
-INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 1.tex
-INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 1.tex
-INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 1.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiIngenTohånds.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiIngenTohånds.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiIngenTohånds.tex
@@ -719,6 +713,8 @@ INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
