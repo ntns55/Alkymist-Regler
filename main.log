@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.9.8)  23 OCT 2025 10:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.9.8)  23 OCT 2025 11:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1235,7 +1235,7 @@ LaTeX Font Info:    Trying to load font information for U+stmry on input line 4.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.18 ...r}{\numberline {4}Niveau 3}{18}{chapter.4}
+l.18 ...r}{\numberline {7}Niveau 3}{18}{chapter.7}
                                                   % [1
 
 
@@ -1270,31 +1270,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--1
 
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 8.
- (C:\Users\NTNS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pplx.fd
+Kapitel 2.
+LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 7.
+(C:\Users\NTNS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
 )
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 16.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--25
+Underfull \hbox (badness 10000) in paragraph at lines 15--23
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--25
+Underfull \hbox (badness 10000) in paragraph at lines 15--23
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--25
+Underfull \hbox (badness 10000) in paragraph at lines 15--23
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--25
+Underfull \hbox (badness 10000) in paragraph at lines 15--23
 
  []
 
@@ -1306,157 +1302,166 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--25
 ]
 
 [6]
+Kapitel 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--42
+
+ []
+
+
 
 [7
 
 
 ]
-Overfull \hbox (19.72469pt too wide) in alignment at lines 53--57
+Kapitel 4.
+
+Overfull \hbox (19.72469pt too wide) in alignment at lines 48--52
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (19.72469pt too wide) in alignment at lines 57--60
+Overfull \hbox (19.72469pt too wide) in alignment at lines 52--55
  [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 \T1/pplx/m/n/10.95 gen-vin-der hur-ti-ge-re
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 []|\T1/pplx/m/n/10.95 Nyttig
  []
 
 
-Underfull \hbox (badness 2126) in paragraph at lines 64--64
+Underfull \hbox (badness 2126) in paragraph at lines 59--59
 []|\T1/pplx/m/n/10.95 En al-min-de-lig rod som
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 64--64
+Underfull \hbox (badness 1281) in paragraph at lines 59--59
 \T1/pplx/m/n/10.95 man-ge ko-ger sup-pe på.
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 64--64
+Underfull \hbox (badness 2608) in paragraph at lines 59--59
 \T1/pplx/m/n/10.95 uen-de-li-ge slet-ter bru-ger
  []
 
 
-Underfull \hbox (badness 6157) in paragraph at lines 64--64
+Underfull \hbox (badness 6157) in paragraph at lines 59--59
 []|\T1/pplx/m/n/10.95 Denne rod hjæl-per
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
 []|\T1/pplx/m/n/10.95 Nyttig
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 66--66
+Underfull \hbox (badness 1052) in paragraph at lines 61--61
 []|\T1/pplx/m/n/10.95 Folk der spi-ser den
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
 []|\T1/pplx/m/n/10.95 Giftig
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
 []|\T1/pplx/m/n/10.95 Nyttig
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--70
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
 []|\T1/pplx/m/n/10.95 Giftig
  []
 
 
-Underfull \hbox (badness 3333) in paragraph at lines 72--72
+Underfull \hbox (badness 3333) in paragraph at lines 67--67
 []|\T1/pplx/m/n/10.95 Denne bark sam-les fra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 []|\T1/pplx/m/n/10.95 Giftig
  []
 
 
-Underfull \hbox (badness 2197) in paragraph at lines 74--74
+Underfull \hbox (badness 2197) in paragraph at lines 69--69
 []|\T1/pplx/m/n/10.95 Denne plan-te me-nes at
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 74--74
+Underfull \hbox (badness 1377) in paragraph at lines 69--69
 []|\T1/pplx/m/n/10.95 Denne rod for-tæt-ter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 []|\T1/pplx/m/n/10.95 Nyttig
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 76--76
+Underfull \hbox (badness 1365) in paragraph at lines 71--71
 \T1/pplx/m/n/10.95 nor-malt vok-ser om-kring
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 76--76
+Underfull \hbox (badness 1383) in paragraph at lines 71--71
 []|\T1/pplx/m/n/10.95 Denne plan-te er en
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
 []|\T1/pplx/m/n/10.95 Nyttig
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 78--78
+Underfull \hbox (badness 1132) in paragraph at lines 73--73
 []|\T1/pplx/m/n/10.95 Små frø fra en præg-tig
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
 []|\T1/pplx/m/n/10.95 Giftig
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
 []|\T1/pplx/m/n/10.95 Nyttig
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
 []|\T1/pplx/m/n/10.95 Sort flue-
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 82--82
+Underfull \hbox (badness 5878) in paragraph at lines 77--77
 \T1/pplx/m/n/10.95 op-står når Ils-her blod
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
 []|\T1/pplx/m/n/10.95 Der fin-des in-gen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
 \T1/pplx/m/n/10.95 kend-te ar-ter som
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
 []|\T1/pplx/m/n/10.95 Giftig
  []
 
 
-Overfull \hbox (19.72469pt too wide) in alignment at lines 60--84
+Overfull \hbox (19.72469pt too wide) in alignment at lines 55--79
  [] [] [] [] [] 
  []
 
@@ -1466,7 +1471,7 @@ Overfull \hbox (19.72469pt too wide) in alignment at lines 60--84
 ]) (mainstuff/Niv1.tex
 
 [9]
-Kapitel 2.
+Kapitel 5.
 (../Evne-Ordbog/Alkymi/AlkymiNiv1.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
@@ -1523,7 +1528,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--7
 )) (mainstuff/Niv2.tex
 
 [12 <../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf>]
-Kapitel 3.
+Kapitel 6.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--13
 
@@ -1601,7 +1606,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--1
 
 
 [17 <../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf>]
-Kapitel 4.
+Kapitel 7.
 (../Evne-Ordbog/Alkymi/AlkymiNiv3.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
@@ -1687,7 +1692,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--1
 
 
 [22]
-Kapitel 5.
+Kapitel 8.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
@@ -1831,20 +1836,20 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3C0E693391CC67AF81BDBE7E7BB63999;5805.
+(rerunfilecheck)             Checksum: BE97DDB8462ED2BC6D7EDA487C1F629B;5838.
  ) 
 Here is how much of TeX's memory you used:
- 37259 strings out of 469959
- 744590 string characters out of 5470319
+ 37270 strings out of 469959
+ 744827 string characters out of 5470319
  1186139 words of memory out of 5000000
- 63113 multiletter control sequences out of 15000+600000
+ 63123 multiletter control sequences out of 15000+600000
  684522 words of font info for 137 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 121i,17n,124p,933b,982s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,17n,124p,933b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (33 pages, 4530620 bytes).
+Output written on main.pdf (33 pages, 4530728 bytes).
 PDF statistics:
- 755 PDF objects out of 1000 (max. 8388607)
- 106 named destinations out of 1000 (max. 500000)
+ 756 PDF objects out of 1000 (max. 8388607)
+ 107 named destinations out of 1000 (max. 500000)
  532 words of extra memory for PDF output out of 10000 (max. 10000000)
 

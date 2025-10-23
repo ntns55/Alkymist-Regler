@@ -1,46 +1,46 @@
 \babel@toc {danish}{}\relax 
 \contentsline {chapter}{\numberline {1}Indledning}{4}{chapter.1}%
-\contentsline {chapter}{Drikke}{5}{chapter*.2}%
-\contentsline {section}{Hvordan man brygger}{5}{section*.3}%
-\contentsline {chapter}{Opskrifter}{7}{chapter*.4}%
-\contentsline {chapter}{Ingredienser}{8}{chapter*.6}%
-\contentsline {chapter}{\numberline {2}Niveau 1}{10}{chapter.2}%
-\contentsline {section}{Evne beskrivelse}{10}{section*.8}%
-\contentsline {subsection}{Alkymi Niv. 1}{10}{subsection*.9}%
-\contentsline {subsection}{Indkomst}{12}{subsection*.11}%
-\contentsline {subsection}{Kemisk våben}{12}{subsection*.12}%
-\contentsline {subsection}{Læse og skrive Elvisk}{12}{subsection*.13}%
-\contentsline {chapter}{\numberline {3}Niveau 2}{13}{chapter.3}%
-\contentsline {section}{Evne beskrivelse}{13}{section*.16}%
-\contentsline {subsection}{Alkymi Niv. 2}{13}{subsection*.17}%
-\contentsline {subsection}{Læse og skrive Magisk}{16}{subsection*.19}%
-\contentsline {subsection}{Personlig Have Niv. 1}{17}{subsection*.21}%
-\contentsline {chapter}{\numberline {4}Niveau 3}{18}{chapter.4}%
-\contentsline {section}{Evne beskrivelse}{18}{section*.23}%
-\contentsline {subsection}{Alkymi Niv. 3}{18}{subsection*.24}%
-\contentsline {subsection}{Bryggerens Hemmelighed}{21}{subsection*.27}%
-\contentsline {subsection}{Urteudvalg}{21}{subsection*.30}%
-\contentsline {subsection}{Personlig Have Niv. 2}{22}{subsection*.35}%
-\contentsline {chapter}{\numberline {5}Niveau 4}{23}{chapter.5}%
-\contentsline {section}{Evne beskrivelse}{23}{section*.39}%
-\contentsline {subsection}{Alkymi Niv. 4}{23}{subsection*.40}%
-\contentsline {subsection}{Blandings Batteri}{26}{subsection*.42}%
-\contentsline {subsection}{DNA-Mutation}{26}{subsection*.43}%
-\contentsline {subsection}{Giftens Vanvid}{26}{subsection*.44}%
-\contentsline {subsection}{Magisk alkymist}{27}{subsection*.46}%
-\contentsline {chapter}{Generelle evner}{28}{chapter*.49}%
-\contentsline {section}{Evne beskrivelse}{28}{table.caption.50}%
-\contentsline {subsection}{6. sans Niv. 1}{28}{subsection*.51}%
-\contentsline {subsection}{6. sans Niv. 2}{29}{subsection*.52}%
-\contentsline {subsection}{Bonk}{29}{subsection*.53}%
-\contentsline {subsection}{Brug af pistol}{29}{subsection*.54}%
-\contentsline {subsection}{Bære person}{29}{subsection*.55}%
-\contentsline {subsection}{Førstehjælp}{30}{subsection*.56}%
-\contentsline {subsection}{Læse og skrive}{30}{subsection*.57}%
-\contentsline {subsection}{Minearbejder}{30}{subsection*.58}%
-\contentsline {subsection}{Påfør gift}{30}{subsection*.59}%
-\contentsline {subsection}{Slagsbror Niv. 1}{31}{subsection*.60}%
-\contentsline {subsection}{Slagsbror Niv. 2}{31}{subsection*.61}%
-\contentsline {subsection}{Slagsbror Niv. 2}{31}{subsection*.62}%
-\contentsline {subsection}{Speciale}{31}{subsection*.63}%
-\contentsline {subsection}{Urtesamler}{32}{subsection*.64}%
+\contentsline {chapter}{\numberline {2}Drikke}{5}{chapter.2}%
+\contentsline {section}{Hvordan man brygger}{5}{section*.2}%
+\contentsline {chapter}{\numberline {3}Opskrifter}{7}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Ingredienser}{8}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Niveau 1}{10}{chapter.5}%
+\contentsline {section}{Evne beskrivelse}{10}{section*.5}%
+\contentsline {subsection}{Alkymi Niv. 1}{10}{subsection*.6}%
+\contentsline {subsection}{Indkomst}{12}{subsection*.8}%
+\contentsline {subsection}{Kemisk våben}{12}{subsection*.9}%
+\contentsline {subsection}{Læse og skrive Elvisk}{12}{subsection*.10}%
+\contentsline {chapter}{\numberline {6}Niveau 2}{13}{chapter.6}%
+\contentsline {section}{Evne beskrivelse}{13}{section*.13}%
+\contentsline {subsection}{Alkymi Niv. 2}{13}{subsection*.14}%
+\contentsline {subsection}{Læse og skrive Magisk}{16}{subsection*.16}%
+\contentsline {subsection}{Personlig Have Niv. 1}{17}{subsection*.18}%
+\contentsline {chapter}{\numberline {7}Niveau 3}{18}{chapter.7}%
+\contentsline {section}{Evne beskrivelse}{18}{section*.20}%
+\contentsline {subsection}{Alkymi Niv. 3}{18}{subsection*.21}%
+\contentsline {subsection}{Bryggerens Hemmelighed}{21}{subsection*.24}%
+\contentsline {subsection}{Urteudvalg}{21}{subsection*.27}%
+\contentsline {subsection}{Personlig Have Niv. 2}{22}{subsection*.32}%
+\contentsline {chapter}{\numberline {8}Niveau 4}{23}{chapter.8}%
+\contentsline {section}{Evne beskrivelse}{23}{section*.36}%
+\contentsline {subsection}{Alkymi Niv. 4}{23}{subsection*.37}%
+\contentsline {subsection}{Blandings Batteri}{26}{subsection*.40}%
+\contentsline {subsection}{DNA-Mutation}{26}{subsection*.41}%
+\contentsline {subsection}{Giftens Vanvid}{26}{subsection*.42}%
+\contentsline {subsection}{Magisk alkymist}{27}{subsection*.44}%
+\contentsline {chapter}{Generelle evner}{28}{chapter*.47}%
+\contentsline {section}{Evne beskrivelse}{28}{table.caption.48}%
+\contentsline {subsection}{6. sans Niv. 1}{28}{subsection*.49}%
+\contentsline {subsection}{6. sans Niv. 2}{29}{subsection*.50}%
+\contentsline {subsection}{Bonk}{29}{subsection*.51}%
+\contentsline {subsection}{Brug af pistol}{29}{subsection*.52}%
+\contentsline {subsection}{Bære person}{29}{subsection*.53}%
+\contentsline {subsection}{Førstehjælp}{30}{subsection*.54}%
+\contentsline {subsection}{Læse og skrive}{30}{subsection*.55}%
+\contentsline {subsection}{Minearbejder}{30}{subsection*.56}%
+\contentsline {subsection}{Påfør gift}{30}{subsection*.57}%
+\contentsline {subsection}{Slagsbror Niv. 1}{31}{subsection*.58}%
+\contentsline {subsection}{Slagsbror Niv. 2}{31}{subsection*.59}%
+\contentsline {subsection}{Slagsbror Niv. 2}{31}{subsection*.60}%
+\contentsline {subsection}{Speciale}{31}{subsection*.61}%
+\contentsline {subsection}{Urtesamler}{32}{subsection*.62}%

@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1761209575.46498 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Alkymist-Regler/main.tex" "main.pdf" "main" 1761209580.10157 0
+["pdflatex"] 1761210903.70254 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Alkymist-Regler/main.tex" "main.pdf" "main" 1761210908.75296 0
   "../Evne-Ordbog/Alkymi/AlkymiNiv1.tex" 1757919369 2220 ce29be2b12e085d1cbc28e2d44d73c14 ""
   "../Evne-Ordbog/Alkymi/AlkymiNiv2.tex" 1761207489 4463 64923275bfcd63f2e5b46c70c4b442a7 ""
   "../Evne-Ordbog/Alkymi/AlkymiNiv3.tex" 1757919452 4026 7018ea05c005c9be5e37c8f449f21db2 ""
-  "../Evne-Ordbog/Alkymi/AlkymiNiv4.tex" 1761209574 3467 3f2ed9fff2a712b7c8b4bb124d337f45 ""
+  "../Evne-Ordbog/Alkymi/AlkymiNiv4.tex" 1761210019 3542 963c025c8faa84ce8e7280c7c635c3d4 ""
   "../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex" 1758196555 122 ba25b781fb5a459c20d8a0c78fdf92f9 ""
   "../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv2.tex" 1758196563 123 88d24f5d7d40dd90ed7f740380219219 ""
   "../Evne-Ordbog/GenerelleEvner/Evner/Bonk.tex" 1758196571 537 bc4ff6c8ccd470eeaf4c99935a3ec95b ""
@@ -295,11 +295,11 @@
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Alkymist-Regler/main.tex" 1758629666 1825 46676ae6621f844a64d02267d12ea44f ""
-  "main.aux" 1761209579 9169 f0a0ea54dec3dfa70f771e2a65f1b9ff "pdflatex"
-  "main.out" 1761209579 5805 3c0e693391cc67af81bdbe7e7bb63999 "pdflatex"
+  "main.aux" 1761210908 9760 839ff995bc1eaa8f7460e8ab130cfcf3 "pdflatex"
+  "main.out" 1761210908 5838 be97ddb8462ed2bc6d7eda487c1f629b "pdflatex"
   "main.tex" 1758629666 1825 46676ae6621f844a64d02267d12ea44f ""
-  "main.toc" 1761209579 2857 4a7dd75f73a7e26c85a6ea7d7d68d294 "pdflatex"
-  "mainstuff/Drikke.tex" 1757325330 6664 7049a1288ae61d08413789053b07ed87 ""
+  "main.toc" 1761210908 2897 8d03d31eb19454ec53a0983f0820fc93 "pdflatex"
+  "mainstuff/Drikke.tex" 1761210900 6254 788eb42a408ed0c2ded27059b942ecaa ""
   "mainstuff/Indledning.tex" 1758629646 1415 1e64b41bc89350523ae2041e8834f00c ""
   "mainstuff/Niv1.tex" 1757919137 729 289f7ac5e0d120cf6e160915ed4700f0 ""
   "mainstuff/Niv2.tex" 1757919419 1640 d59b3997ad1469959829ef0f43b4aabf ""
