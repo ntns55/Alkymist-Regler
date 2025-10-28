@@ -13,34 +13,34 @@
 \contentsline {chapter}{\numberline {6}Niveau 2}{13}{chapter.6}%
 \contentsline {section}{Evne beskrivelse}{13}{section*.13}%
 \contentsline {subsection}{Alkymi Niv. 2}{13}{subsection*.14}%
-\contentsline {subsection}{Læse og skrive Magisk}{16}{subsection*.16}%
-\contentsline {subsection}{Personlig Have Niv. 1}{17}{subsection*.18}%
+\contentsline {subsection}{Bryggerens Hemmelighed Niv 1}{17}{subsection*.16}%
+\contentsline {subsection}{Læse og skrive Magisk}{17}{subsection*.17}%
+\contentsline {subsection}{Personlig Have Niv. 1}{17}{subsection*.19}%
 \contentsline {chapter}{\numberline {7}Niveau 3}{18}{chapter.7}%
-\contentsline {section}{Evne beskrivelse}{18}{section*.20}%
-\contentsline {subsection}{Alkymi Niv. 3}{18}{subsection*.21}%
-\contentsline {subsection}{Bryggerens Hemmelighed}{21}{subsection*.24}%
-\contentsline {subsection}{Urteudvalg}{21}{subsection*.27}%
-\contentsline {subsection}{Personlig Have Niv. 2}{22}{subsection*.32}%
+\contentsline {section}{Evne beskrivelse}{18}{section*.21}%
+\contentsline {subsection}{Alkymi Niv. 3}{18}{subsection*.22}%
+\contentsline {subsection}{Bryggerens Hemmelighed Niv 2}{21}{subsection*.24}%
+\contentsline {subsection}{Urte ekspert}{21}{subsection*.25}%
+\contentsline {subsection}{Personlig Have Niv. 2}{21}{subsection*.26}%
 \contentsline {chapter}{\numberline {8}Niveau 4}{23}{chapter.8}%
-\contentsline {section}{Evne beskrivelse}{23}{section*.36}%
-\contentsline {subsection}{Alkymi Niv. 4}{23}{subsection*.37}%
-\contentsline {subsection}{Blandings Batteri}{26}{subsection*.40}%
-\contentsline {subsection}{DNA-Mutation}{26}{subsection*.41}%
-\contentsline {subsection}{Giftens Vanvid}{26}{subsection*.42}%
-\contentsline {subsection}{Magisk alkymist}{27}{subsection*.44}%
-\contentsline {chapter}{Generelle evner}{28}{chapter*.47}%
-\contentsline {section}{Evne beskrivelse}{28}{table.caption.48}%
-\contentsline {subsection}{6. sans Niv. 1}{28}{subsection*.49}%
-\contentsline {subsection}{6. sans Niv. 2}{29}{subsection*.50}%
-\contentsline {subsection}{Bonk}{29}{subsection*.51}%
-\contentsline {subsection}{Brug af pistol}{29}{subsection*.52}%
-\contentsline {subsection}{Bære person}{29}{subsection*.53}%
-\contentsline {subsection}{Førstehjælp}{30}{subsection*.54}%
-\contentsline {subsection}{Læse og skrive}{30}{subsection*.55}%
-\contentsline {subsection}{Minearbejder}{30}{subsection*.56}%
-\contentsline {subsection}{Påfør gift}{30}{subsection*.57}%
-\contentsline {subsection}{Slagsbror Niv. 1}{31}{subsection*.58}%
-\contentsline {subsection}{Slagsbror Niv. 2}{31}{subsection*.59}%
-\contentsline {subsection}{Slagsbror Niv. 2}{31}{subsection*.60}%
-\contentsline {subsection}{Speciale}{31}{subsection*.61}%
-\contentsline {subsection}{Urtesamler}{32}{subsection*.62}%
+\contentsline {section}{Evne beskrivelse}{23}{section*.28}%
+\contentsline {subsection}{Alkymi Niv. 4}{23}{subsection*.29}%
+\contentsline {subsection}{Blandings Batteri}{26}{subsection*.31}%
+\contentsline {subsection}{DNA-Mutation}{26}{subsection*.32}%
+\contentsline {subsection}{Giftens Vanvid}{26}{subsection*.33}%
+\contentsline {subsection}{Magisk alkymist}{27}{subsection*.34}%
+\contentsline {chapter}{\numberline {9}Generelle evner}{28}{chapter.9}%
+\contentsline {section}{Evne beskrivelse}{28}{section*.36}%
+\contentsline {subsection}{6. sans Niv. 1}{28}{subsection*.37}%
+\contentsline {subsection}{6. sans Niv. 2}{29}{subsection*.38}%
+\contentsline {subsection}{Bonk}{29}{subsection*.39}%
+\contentsline {subsection}{Brug af pistol}{29}{subsection*.40}%
+\contentsline {subsection}{Bære person}{29}{subsection*.41}%
+\contentsline {subsection}{Førstehjælp}{30}{subsection*.42}%
+\contentsline {subsection}{Minearbejder}{30}{subsection*.43}%
+\contentsline {subsection}{Påfør gift}{30}{subsection*.44}%
+\contentsline {subsection}{Slagsbror Niv. 1}{31}{subsection*.45}%
+\contentsline {subsection}{Slagsbror Niv. 2}{31}{subsection*.46}%
+\contentsline {subsection}{Slagsbror Niv. 2}{31}{subsection*.47}%
+\contentsline {subsection}{Speciale}{31}{subsection*.48}%
+\contentsline {subsection}{Urtesamler}{32}{subsection*.49}%

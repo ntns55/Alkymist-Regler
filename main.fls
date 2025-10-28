@@ -612,25 +612,14 @@ INPUT ..\Evne-Ordbog\setup\Alfabeter\Magisk alfabet.pdf
 INPUT ..\Evne-Ordbog\setup\Alfabeter\Magisk alfabet.pdf
 INPUT ..\Evne-Ordbog\setup\Alfabeter\Magisk alfabet.pdf
 INPUT ..\Evne-Ordbog\setup\Alfabeter\Magisk alfabet.pdf
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri9e.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbi9e.tfm
 INPUT .\mainstuff\Niv3.tex
 INPUT .\mainstuff\Niv3.tex
 INPUT .\mainstuff\Niv3.tex
 INPUT .\mainstuff\Niv3.tex
 INPUT mainstuff\Niv3.tex
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplbi9e.vf
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbi8r.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmbi.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplri9e.vf
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
 INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv3.tex
 INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv3.tex
 INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv3.tex
-INPUT ..\Evne-Ordbog\Vareudvalg\Urteudvalg.tex
-INPUT ..\Evne-Ordbog\Vareudvalg\Urteudvalg.tex
-INPUT ..\Evne-Ordbog\Vareudvalg\Urteudvalg.tex
 INPUT .\mainstuff\Niv4.tex
 INPUT .\mainstuff\Niv4.tex
 INPUT .\mainstuff\Niv4.tex
@@ -639,9 +628,13 @@ INPUT mainstuff\Niv4.tex
 INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv4.tex
 INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv4.tex
 INPUT ..\Evne-Ordbog\Alkymi\AlkymiNiv4.tex
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri9e.tfm
 INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiIngenTohånds.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiIngenTohånds.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiIngenTohånds.tex
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplri9e.vf
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1.tex
@@ -672,11 +665,6 @@ INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Læse og skrive.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Minearbejder.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Minearbejder.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Minearbejder.tex
@@ -718,8 +706,6 @@ INPUT .\main.out
 INPUT .\main.out
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplb8a.pfb
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplb8a.pfb
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplbi8a.pfb
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplbi8a.pfb
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplr8a.pfb
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplr8a.pfb
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplri8a.pfb
