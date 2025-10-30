@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1761678073.95329 "c:/Users/niels/Documents/GitHub/Alkymist-Regler/main.tex" "main.pdf" "main" 1761678077.24213 0
+["pdflatex"] 1761845924.89991 "c:/Users/niels/Documents/GitHub/Alkymist-Regler/main.tex" "main.pdf" "main" 1761845928.01946 0
   "../Evne-Ordbog/Alkymi/AlkymiNiv1.tex" 1761674138 2210 46350c4f5a9e267c09ff03c0a8f03d77 ""
   "../Evne-Ordbog/Alkymi/AlkymiNiv2.tex" 1761674917 4467 a47be1dd6e16fff78ffe6f8175f1d71b ""
   "../Evne-Ordbog/Alkymi/AlkymiNiv3.tex" 1761420286 4028 6ba585ffb7346ee399edfa38e1fc9daa ""
@@ -284,15 +284,15 @@
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/niels/Documents/GitHub/Alkymist-Regler/main.tex" 1761677857 1734 b84a020da1e3dda888aa1abb2089b5cf ""
-  "main.aux" 1761678076 7235 5367b6d711eff151c8cd33efc25a3b24 "pdflatex"
-  "main.out" 1761678076 5891 b65c1d2c946664370b0c213a073bb724 "pdflatex"
+  "main.aux" 1761845927 7235 5367b6d711eff151c8cd33efc25a3b24 "pdflatex"
+  "main.out" 1761845927 5891 b65c1d2c946664370b0c213a073bb724 "pdflatex"
   "main.tex" 1761677857 1734 b84a020da1e3dda888aa1abb2089b5cf ""
-  "main.toc" 1761678076 2926 76d77cdc5f702b42dd00e582d7458151 "pdflatex"
+  "main.toc" 1761845927 2926 76d77cdc5f702b42dd00e582d7458151 "pdflatex"
   "mainstuff/Drikke.tex" 1761350890 6254 788eb42a408ed0c2ded27059b942ecaa ""
   "mainstuff/Indledning.tex" 1761673866 1327 4a5203050b3ac8fc0b3fd555dd6c9765 ""
   "mainstuff/Niv1.tex" 1757948252 729 289f7ac5e0d120cf6e160915ed4700f0 ""
   "mainstuff/Niv2.tex" 1761675962 1495 9461089a2acadb7ef8a767e40c14f552 ""
-  "mainstuff/Niv3.tex" 1761676292 1644 081b3d2b39e13468f964e67907381405 ""
+  "mainstuff/Niv3.tex" 1761845924 1619 90086108042e1831af9eae384d951fac ""
   "mainstuff/Niv4.tex" 1761677510 2967 2e782c0610c4de9231bc80a2cbad5efc ""
   "setup/Pictures/A01.C01.01_Front_Billede.png" 1754339001 6403955 f084c9143d1fcc3045f3c66faf856f1d ""
   (generated)
