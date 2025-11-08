@@ -22,25 +22,25 @@
 \contentsline {subsection}{Bryggerens Hemmelighed Niv 2}{21}{subsection*.24}%
 \contentsline {subsection}{Urte ekspert}{21}{subsection*.25}%
 \contentsline {subsection}{Personlig Have Niv. 2}{21}{subsection*.26}%
-\contentsline {chapter}{\numberline {8}Niveau 4}{23}{chapter.8}%
-\contentsline {section}{Evne beskrivelse}{23}{section*.28}%
-\contentsline {subsection}{Alkymi Niv. 4}{23}{subsection*.29}%
-\contentsline {subsection}{Blandings Batteri}{26}{subsection*.31}%
-\contentsline {subsection}{DNA-Mutation}{26}{subsection*.32}%
-\contentsline {subsection}{Giftens Vanvid}{26}{subsection*.33}%
-\contentsline {subsection}{Magisk alkymist}{27}{subsection*.34}%
-\contentsline {chapter}{\numberline {9}Generelle evner}{28}{chapter.9}%
-\contentsline {section}{Evne beskrivelse}{28}{section*.36}%
-\contentsline {subsection}{6. sans Niv. 1}{28}{subsection*.37}%
-\contentsline {subsection}{6. sans Niv. 2}{29}{subsection*.38}%
-\contentsline {subsection}{Bonk}{29}{subsection*.39}%
-\contentsline {subsection}{Brug af pistol}{29}{subsection*.40}%
-\contentsline {subsection}{Bære person}{29}{subsection*.41}%
-\contentsline {subsection}{Førstehjælp}{30}{subsection*.42}%
-\contentsline {subsection}{Minearbejder}{30}{subsection*.43}%
-\contentsline {subsection}{Påfør gift}{30}{subsection*.44}%
-\contentsline {subsection}{Slagsbror Niv. 1}{31}{subsection*.45}%
-\contentsline {subsection}{Slagsbror Niv. 2}{31}{subsection*.46}%
-\contentsline {subsection}{Slagsbror Niv. 2}{31}{subsection*.47}%
-\contentsline {subsection}{Speciale}{31}{subsection*.48}%
-\contentsline {subsection}{Urtesamler}{32}{subsection*.49}%
+\contentsline {chapter}{\numberline {8}Niveau 4}{22}{chapter.8}%
+\contentsline {section}{Evne beskrivelse}{22}{section*.28}%
+\contentsline {subsection}{Alkymi Niv. 4}{22}{subsection*.29}%
+\contentsline {subsection}{Blandings Batteri}{25}{subsection*.31}%
+\contentsline {subsection}{DNA-Mutation}{25}{subsection*.32}%
+\contentsline {subsection}{Giftens Vanvid}{25}{subsection*.33}%
+\contentsline {subsection}{Magisk alkymist}{26}{subsection*.34}%
+\contentsline {chapter}{\numberline {9}Generelle evner}{27}{chapter.9}%
+\contentsline {section}{Evne beskrivelse}{27}{section*.36}%
+\contentsline {subsection}{6. sans}{27}{subsection*.37}%
+\contentsline {subsection}{Bonk}{28}{subsection*.38}%
+\contentsline {subsection}{Brug af pistol}{28}{subsection*.39}%
+\contentsline {subsection}{Bære person}{28}{subsection*.40}%
+\contentsline {subsection}{Førstehjælp}{28}{subsection*.41}%
+\contentsline {subsection}{Minearbejder}{29}{subsection*.42}%
+\contentsline {subsection}{Påfør gift}{29}{subsection*.43}%
+\contentsline {subsection}{Samler}{29}{subsection*.44}%
+\contentsline {subsection}{Slagsbror Niv. 1}{30}{subsection*.45}%
+\contentsline {subsection}{Slagsbror Niv. 2}{30}{subsection*.46}%
+\contentsline {subsection}{Slagsbror Niv. 2}{30}{subsection*.47}%
+\contentsline {subsection}{Speciale}{30}{subsection*.48}%
+\contentsline {subsection}{Urtesamler}{31}{subsection*.49}%
