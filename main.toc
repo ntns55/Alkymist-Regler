@@ -41,6 +41,6 @@
 \contentsline {subsection}{Samler}{29}{subsection*.44}%
 \contentsline {subsection}{Slagsbror Niv. 1}{30}{subsection*.45}%
 \contentsline {subsection}{Slagsbror Niv. 2}{30}{subsection*.46}%
-\contentsline {subsection}{Slagsbror Niv. 2}{30}{subsection*.47}%
+\contentsline {subsection}{Slagsbror Niv. 3}{30}{subsection*.47}%
 \contentsline {subsection}{Speciale}{30}{subsection*.48}%
-\contentsline {subsection}{Urtesamler}{31}{subsection*.49}%
+\contentsline {subsection}{Urtesamler}{30}{subsection*.49}%
