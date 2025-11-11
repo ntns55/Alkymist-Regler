@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1762782626.2477 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Alkymist-Regler/main.tex" "main.pdf" "main" 1762782631.26309 0
+["pdflatex"] 1762850175.9443 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Alkymist-Regler/main.tex" "main.pdf" "main" 1762850184.13716 0
   "../Evne-Ordbog/Alkymi/AlkymiNiv1.tex" 1762769309 2242 7d6cd88d211f0109a756d3f4d6fb1b0d ""
   "../Evne-Ordbog/Alkymi/AlkymiNiv2.tex" 1762781444 4492 e08d583b062289022bc1e307a44e44a2 ""
   "../Evne-Ordbog/Alkymi/AlkymiNiv3.tex" 1762782624 4022 0c1043c8697cec9325a6cf8bb8a5d449 ""
-  "../Evne-Ordbog/Alkymi/AlkymiNiv4.tex" 1762760361 3485 2c243e37cde5e01bc366a48f98d25290 ""
+  "../Evne-Ordbog/Alkymi/AlkymiNiv4.tex" 1762850173 3551 96dfb9982965e8d7495eb7b8b47bceb8 ""
   "../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex" 1762760361 87 2fa263989234c6f776cf884d051a180d ""
   "../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1Desc.tex" 1762760361 42 ad4e72984dbf8c060394fbf8e364bff5 ""
   "../Evne-Ordbog/GenerelleEvner/Evner/Bonk.tex" 1762760361 75 7525bc2f018a9709bcde3e2948df50d5 ""
@@ -296,10 +296,10 @@
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Alkymist-Regler/main.tex" 1762760336 1734 b84a020da1e3dda888aa1abb2089b5cf ""
-  "main.aux" 1762782630 7220 7b89c4feedb44d2164c52561c1f1f904 "pdflatex"
-  "main.out" 1762782630 5801 f740614306cba20304a8d655ccd050ac "pdflatex"
+  "main.aux" 1762850183 7220 7b89c4feedb44d2164c52561c1f1f904 "pdflatex"
+  "main.out" 1762850183 5801 f740614306cba20304a8d655ccd050ac "pdflatex"
   "main.tex" 1762760336 1734 b84a020da1e3dda888aa1abb2089b5cf ""
-  "main.toc" 1762782630 2911 df33fc99091ae595a141468c26437835 "pdflatex"
+  "main.toc" 1762850183 2911 df33fc99091ae595a141468c26437835 "pdflatex"
   "mainstuff/Drikke.tex" 1761210900 6254 788eb42a408ed0c2ded27059b942ecaa ""
   "mainstuff/Indledning.tex" 1762760336 1327 4a5203050b3ac8fc0b3fd555dd6c9765 ""
   "mainstuff/Niv1.tex" 1757919137 729 289f7ac5e0d120cf6e160915ed4700f0 ""
